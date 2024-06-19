@@ -9,4 +9,6 @@ Input for this model are:
 2. Name of the crop
 
 Result: Disease the crop is affected with.
-![bactrical strip](https://github.com/deepaliMMC/Crop_Disease_Detection/assets/164314374/89564f0b-785a-4f25-8af0-68a17d7b63b7)
+
+![diseasedetection](https://github.com/deepaliMMC/Crop_Disease_Detection/assets/164314374/06d640ef-8498-4358-b4e6-dac5d8ff3a0d)
+
