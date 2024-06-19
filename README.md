@@ -8,4 +8,4 @@ Input for this model are:
 1. Image of the diseased leaf
 2. Name of the crop
 
-Result: Disease teh crop is affected by [text format].
+Result: Disease the crop is affected with.
