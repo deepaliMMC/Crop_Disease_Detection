@@ -1,5 +1,4 @@
-from imports import *
-from data import *
+from ultralytics import YOLO
 
 class Model(pl.LightningModule):
     def __init__(self):
